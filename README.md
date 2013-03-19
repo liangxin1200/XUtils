@@ -1,4 +1,4 @@
 XUtils
 ======
 
-my tools and lib for programming
+my tools and lib for C programming
